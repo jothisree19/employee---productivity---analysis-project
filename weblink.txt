@@ -1,0 +1,32 @@
+# Employee Productivity Prediction Analysis
+
+## Project Description
+This project predicts employee productivity using machine learning techniques. 
+It takes employee-related inputs and predicts productivity levels to help analyze performance.
+
+## Technologies Used
+- Python
+- Flask
+- Machine Learning (Scikit-learn)
+- HTML, CSS
+- GitHub
+
+## Features
+- Predicts employee productivity
+- Simple web interface
+- Backend model integration
+- Easy to use and understand
+
+## Demo Link
+https://v0-employee-productivity-website.vercel.app/
+
+## How to Run
+1. Install dependencies using pip install -r requirements.txt
+2. Run the application using python app.py
+3. Open browser and go to http://127.0.0.1:5000/
+
+## Output
+Screenshots are attached in the repository.
+
+## Conclusion
+This project demonstrates how machine learning can be used to analyze and predict employee productivity efficiently.
